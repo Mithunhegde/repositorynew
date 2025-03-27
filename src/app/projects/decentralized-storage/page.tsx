@@ -1,6 +1,5 @@
 import { FiGithub, FiExternalLink, FiArrowLeft } from 'react-icons/fi';
 import Link from 'next/link';
-import Image from 'next/image';
 
 export const metadata = {
   title: 'Decentralized Storage Platform | My Portfolio',
